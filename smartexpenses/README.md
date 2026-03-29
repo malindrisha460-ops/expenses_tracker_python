@@ -1,7 +1,7 @@
 SmartExpenses ( expesnses tracker) - python
 
 # Description
-smartexpenses is a co,,amd-line expense tracking system built using python. it allows users to record daily expenses, analyze spending patterns and view summaries. 
+smartexpenses is a command-line expense tracking system built using python. it allows users to record daily expenses, analyze spending patterns and view summaries. 
 
 this project shows file handling, data processing and basic system design. 
 
